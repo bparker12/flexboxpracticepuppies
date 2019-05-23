@@ -3,8 +3,9 @@ img {
 }
 .container {
     display: flex;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    justify-content: center
 }
 .animal {
-    flex-basis: 25%;
+    flex-basis: 20%;
 }
