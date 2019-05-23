@@ -1,0 +1,10 @@
+img {
+    width: 200px
+}
+.container {
+    display: flex;
+    flex-wrap: wrap
+}
+.animal {
+    flex-basis: 25%;
+}
